@@ -1,4 +1,4 @@
-# CNN from Scratch Assignment
+# CNN from Scratch
 
 This repo contains a PyTorch implementation for training a custom CNN on a subset of the iNaturalist/CIFAR-10 dataset.
 
